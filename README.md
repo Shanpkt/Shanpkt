@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on MERN
   
 <img align="right" src="https://github.com/your-username/your-repo/blob/main/animation.gif" alt="GIF" />
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=rogue)
+
 
 <!---
 Shanpkt/Shanpkt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
